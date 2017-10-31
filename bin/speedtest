@@ -1,0 +1,8 @@
+speedtest addition 20 400 20 1
+speedtest mult 20 400 20 1
+speedtest solve 20 400 20 1
+speedtest invert 20 400 20 1
+speedtest determinant 20 400 20 1
+speedtest rank 20 400 20 1
+speedtest decomposition 20 400 20 1
+speedtest least_estimate 20 400 20 1
